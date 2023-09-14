@@ -2,7 +2,7 @@
 #### CS4400 Database Project - Spring Semester 2016
 ## Abstract
 
-❮img src="im1.png" ❯
+![](im1.png)
 
 ## What Does It Include?
 
